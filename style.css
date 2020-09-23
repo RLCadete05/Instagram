@@ -1,0 +1,21 @@
+body{
+    font-style: inherit;
+    max-width: 850px;
+}
+.phone{
+    width: 550px;
+    height: 310px;  
+    display: flex; 
+}
+.container-medio{
+    width: 350px;
+    height: 339px;
+    background: burlywood;
+    display: flex; 
+
+}
+.profile{
+    width: 102px;
+    height: 102px;
+    border-radius: 50%;
+}
